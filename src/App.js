@@ -82,9 +82,9 @@ function App() {
         name = {info.name}
         setShowCart= {handleShowCart}
       />
-      <h2 style={{marginTop: '30px'}}>
-        Build a meal
-      </h2>
+      <h1 style={{marginTop: '30px'}}>
+        IVIM's Build a meal
+      </h1>
       <p>Please select up to one item from each section</p>
       {/* appetizers */}
       <MenuSection
